@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YASINaithamid
-- 👀 I’m interested in Android/IOS engineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Flutter/Dart/Spring Boot /Java
 - 💞️ I love what i'm doing :)
 - 📫 How to reach me https://www.linkedin.com/in/yasin-ait-hamid-499bb9178/
