@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YASINaithamid
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Software Engineering and  Cybersecurity
 - 🌱 I’m currently learning Cybersecurity Fondamentals
 - 💞️ I love what i'm doing :)
 - 📫 How to reach me https://www.linkedin.com/in/yasin-ait-hamid-499bb9178/
